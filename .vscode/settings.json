@@ -16,7 +16,7 @@
   // workbench
   "workbench.editor.enablePreview": false,
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Omni",
+  "workbench.colorTheme": "Visual Studio Dark",
 
   // prettier
   "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -32,6 +32,6 @@
       "source": "Git Bash"
     }
   },
-  "terminal.integrated.defaultProfile.windows": "Git Bash",
-  "window.zoomLevel": 0
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "window.zoomLevel": -2
 }
